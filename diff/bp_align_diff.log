@@ -1,3 +1,5 @@
-[2021/10/29 22:24:42] root INFO: loss_list: 
-[2021/10/29 22:24:42] root INFO: 	mean diff: check passed: True, value: 0.00023508071899414062
-[2021/10/29 22:24:42] root INFO: diff check passed
+[2021/10/29 23:40:51] root INFO: loss_list[0]: 
+[2021/10/29 23:40:51] root INFO: 	mean diff: check passed: True, value: 1.430511474609375e-06
+[2021/10/29 23:40:51] root INFO: loss_list[1]: 
+[2021/10/29 23:40:51] root INFO: 	mean diff: check passed: True, value: 9.5367431640625e-07
+[2021/10/29 23:40:51] root INFO: diff check passed
