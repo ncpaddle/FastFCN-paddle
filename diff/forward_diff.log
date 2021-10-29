@@ -1,0 +1,5 @@
+[2021/10/29 21:32:05] root INFO: out[0]: 
+[2021/10/29 21:32:05] root INFO: 	mean diff: check passed: True, value: 7.860744943855025e-08
+[2021/10/29 21:32:05] root INFO: out[1]: 
+[2021/10/29 21:32:05] root INFO: 	mean diff: check passed: True, value: 0.0
+[2021/10/29 21:32:05] root INFO: diff check passed
