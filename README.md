@@ -36,9 +36,9 @@ A brief introduction about important folders:
 
 ## Results:  
 
-| Method  |DataSet| Environment | Model| Epoch| Test Accuracy|   
+| Method  |DataSet| Environment | Model| Epoch| Miou|   
 | --- | --- |--- | --- |---|---|  
-| FastFCN|ade20k| Tesla V100 | EncNet+JPU|  |  |  
+| FastFCN|ade20k| Tesla V100 | EncNet+JPU| 96 | 34.4 |  
 
 ## Reprod_Log:  
 
