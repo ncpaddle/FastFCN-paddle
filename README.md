@@ -49,4 +49,4 @@ A brief introduction about important folders:
 `train_align_diff` : [train_align_diff.log](https://github.com/ncpaddle/FastFCN-paddle/blob/master/diff/train_align_diff.log)  
 `train_log` : [train.log](https://github.com/ncpaddle/FastFCN-paddle/blob/master/diff/train.log)
 ## AI studio:
-* AI studio link : []() 
+* AI studio link : [https://aistudio.baidu.com/aistudio/projectdetail/2565388](https://aistudio.baidu.com/aistudio/projectdetail/2565388) 
